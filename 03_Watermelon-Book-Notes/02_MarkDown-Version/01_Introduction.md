@@ -86,7 +86,7 @@
 		- “好瓜”，“坏瓜”
 
 			- 二分类(binary classification)
-![](https://latex.codecogs.com/png.image?\dpi{110}{\cal Y} = \{ - 1, + 1\} ;\{ 0,1\}\)
+<img src="https://latex.codecogs.com/png.image?\dpi{110}{\cal&space;Y}&space;=&space;\{&space;&space;-&space;1,&space;&plus;&space;1\}&space;;\{&space;0,1\}" title="https://latex.codecogs.com/png.image?\dpi{110}{\cal Y} = \{ - 1, + 1\} ;\{ 0,1\}" />
 $$
 {\cal_Y}=\{-1,+1\};\{0,1\}
 $$

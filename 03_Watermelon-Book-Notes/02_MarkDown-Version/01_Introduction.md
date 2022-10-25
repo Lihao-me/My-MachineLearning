@@ -87,18 +87,18 @@
 
 			- 二分类(binary classification)
 
-${\cal Y} = \{{  - 1, + 1\}}$
+$${\cal Y} = \{{  - 1, + 1\}}$$
 
-				- 正类(positive class)
-				- 反类(negative class)
+- 正类(positive class)
+- 反类(negative class)
 
-			- 多分类(multi-class classification)
+- 多分类(multi-class classification)
 
-$\left| {\cal Y} \right| > 2$
+$$\left| {\cal Y} \right| > 2$$
 
 - 回归(regression)
 
-${\cal Y} = R$
+$${\cal Y} = R$$
 
 	- 预测的是连续值
 
@@ -128,17 +128,11 @@ ${\cal Y} = R$
 
 		- (色泽=浅白;根蒂 硬挺;敲声=清脆)，好瓜
 
-			- 第i个样例
+- 第i个样例$\left( {{x_i},{y_i}} \right)$
 
-$\left( {{x_i},{y_i}} \right)$
+- x_i的标记${y_i} \in {\cal Y}$
 
-			- x_i的标记
-
-${y_i} \in {\cal Y}$
-
-			- 标记空间(label space)/输出空间
-
-${\cal Y}$
+- 标记空间(label space)/输出空间${\cal Y}$
 
 - 测试(testing)
 

@@ -88,6 +88,7 @@
 			- 二分类(binary classification)
 
 ![](http://latex.codecogs.com/gif.latex?\{\cal Y} = \{  - 1, + 1\} ;\{ 0,1\})
+
 				- 正类(positive class)
 				- 反类(negative class)
 
@@ -97,7 +98,7 @@ $$
 $$
 - 回归(regression)
 $$
-{\cal Y} = R
+\{\cal Y} = R
 $$
 	- 预测的是连续值
 

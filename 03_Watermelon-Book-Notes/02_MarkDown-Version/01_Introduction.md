@@ -87,7 +87,7 @@
 
 			- 二分类(binary classification)
 $$
-{\cal_Y}=\{-1,+1\};\{0,1\}
+{\cal Y} = \left{  - 1, + 1\right}
 $$
 
 				- 正类(positive class)
@@ -132,15 +132,21 @@ $$
 		- (色泽=浅白;根蒂 硬挺;敲声=清脆)，好瓜
 
 			- 第i个样例
-
+$$
+\left( {{x_i},{y_i}} \right)
+$$
 				- 
 
 			- x_i的标记
-
+$$
+{y_i} \in {\cal Y}
+$$
 				- 
 
 			- 标记空间(label space)/输出空间
-
+$$
+{\cal Y}
+$$
 				- 
 
 - 测试(testing)

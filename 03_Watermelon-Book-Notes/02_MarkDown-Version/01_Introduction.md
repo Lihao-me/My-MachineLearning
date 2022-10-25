@@ -91,7 +91,7 @@ $${\cal Y} = {  - 1, + 1}$$
         - 正类(positive class)
         - 反类(negative class)
       
-      - 多分类(multi-class classification)
+多分类(multi-class classification)
 
 $$\left| {\cal Y} \right| > 2$$
 

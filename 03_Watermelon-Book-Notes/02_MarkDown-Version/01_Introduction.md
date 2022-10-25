@@ -86,7 +86,6 @@
 		- “好瓜”，“坏瓜”
 
 			- 二分类(binary classification)
-
 $$
 {\cal_Y}=\{-1,+1\};\{0,1\}
 $$
@@ -95,13 +94,14 @@ $$
 				- 反类(negative class)
 
 			- 多分类(multi-class classification)
+
 $$
 \left| {\cal Y} \right| > 2
 $$
 
 - 回归(regression)
 $$
-\{\cal Y} = R
+{\cal Y} = R
 $$
 	- 预测的是连续值
 

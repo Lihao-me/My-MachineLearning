@@ -88,7 +88,6 @@
 			- 二分类(binary classification)
 
 $${\cal Y} = {  - 1, + 1}$$
-
 				- 正类(positive class)
 				- 反类(negative class)
 

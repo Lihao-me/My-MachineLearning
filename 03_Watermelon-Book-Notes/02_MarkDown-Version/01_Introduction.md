@@ -88,20 +88,19 @@
 			- 二分类(binary classification)
 
 $${\cal Y} = {  - 1, + 1}$$
-				- 正类(positive class)
-				- 反类(negative class)
-
-			- 多分类(multi-class classification)
+        - 正类(positive class)
+        - 反类(negative class)
+      
+      - 多分类(multi-class classification)
 
 $$\left| {\cal Y} \right| > 2$$
 
 - 回归(regression)
 
 $${\cal Y} = R$$
-
-	- 预测的是连续值
-
-		- 西瓜成熟度0.95、0.37
+  - 预测的是连续值
+    
+    - 西瓜成熟度0.95、0.37
 #### 无监督学习
 无监督学习(unsupervised learning):训练数据无标记信息
 - 聚类(clustering)

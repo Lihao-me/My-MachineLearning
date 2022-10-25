@@ -1,14 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 # 01绪论
 
 ## 1.1引言
@@ -98,7 +87,7 @@
 
 			- 二分类(binary classification)
 $$
-{\cal Y} = \{  - 1, + 1\} ;\{ 0,1\}
+{\cal_Y}=\{-1,+1\};\{0,1\}
 $$
 
 				- 正类(positive class)

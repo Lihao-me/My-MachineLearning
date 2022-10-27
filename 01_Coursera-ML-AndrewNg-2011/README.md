@@ -1,6 +1,8 @@
 # 说明
 这里为吴恩达老师2011年度cs229的相关学习资料以及本人整理内容。
+
 原版课程地址：[英文原版地址](https://www.coursera.org/course/ml)
+
 中文课程地址：[中文字幕课程地址](https://study.163.com/course/introduction.htm?courseId=1004570029&_trace_c_p_k2_=60b3accf313c45bcbd5dddc890ff4346)
 ## 第0部分：图片
 为编写markdown相关文件所插入的图片。

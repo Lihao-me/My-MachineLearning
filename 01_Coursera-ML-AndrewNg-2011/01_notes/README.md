@@ -1,7 +1,8 @@
 # 笔记目录如下
-- 01监督学习与无监督学习
-- 02一元线性回归
-- 03线性代数基础
-- 04多元线性回归
-- 05Octave使用
-- 06逻辑回归
+- 01[监督学习与无监督学习](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/01_Supervised%26Unsupervised-Learning.pdf)
+- 02[一元线性回归](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/02_Linear-regression-with-one-variable.pdf)
+- 03[线性代数基础](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/03_Linear-Algebra-review.pdf)
+- 04[多元线性回归](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/04_Linear-regression-with-multiple-variables.pdf)
+- 05[Octave使用](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/05_Octave-Tutorial.pdf)
+- 06[逻辑回归](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/06_Logistic-Regression.pdf)
+- 07[正则化](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/07_Regularization.pdf)

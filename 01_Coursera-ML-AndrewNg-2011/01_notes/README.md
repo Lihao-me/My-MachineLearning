@@ -6,3 +6,5 @@
 - 05[Octave使用](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/05_Octave-Tutorial.pdf)
 - 06[逻辑回归](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/06_Logistic-Regression.pdf)
 - 07[正则化](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/07_Regularization.pdf)
+- 08[神经网络的表征](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/08_Represntation-of-Neural-Networks.pdf
+

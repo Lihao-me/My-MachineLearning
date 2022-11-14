@@ -7,4 +7,5 @@
 - 06[逻辑回归](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/06_Logistic-Regression.pdf)
 - 07[正则化](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/07_Regularization.pdf)
 - 08[神经网络的表征](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/08_Representation-of-Neural-Networks.pdf)
-
+- 09[神经网络的学习](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/09_Learning-of-Neural-Networks.pdf)
+- 10[应用神经网络的建议](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/10_Advice-for-Applying-Machine-Learning.pdf)

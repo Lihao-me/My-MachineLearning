@@ -5,3 +5,6 @@
 - 02 [myEx2 逻辑回归](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/02_myEx2)
   - [作业2题目要求](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/02_myEx2/ex2.pdf)
   - [作业2解决记录](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/02_myEx2/ex2_record.md)
+- 03 [myEx3 多分类和神经网络](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/03_myEx3)
+  - [作业3题目要求](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/03_myEx3/ex3.pdf)
+  - [作业2解决记录](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/03_myEx3/ex3_record.md)

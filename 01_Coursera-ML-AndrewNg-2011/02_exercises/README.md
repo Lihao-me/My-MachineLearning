@@ -8,3 +8,6 @@
 - 03 [myEx3 多分类和神经网络](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/03_myEx3)
   - [作业3题目要求](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/03_myEx3/ex3.pdf)
   - [作业2解决记录](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/03_myEx3/ex3_record.md)
+- 04 [myEx4 神经网络的学习](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/04_myEx4)
+  - [作业4题目要求](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/04_myEx4/ex4.pdf)
+  - [作业4解决记录](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/02_exercises/04_myEx4/ex4_record.md)

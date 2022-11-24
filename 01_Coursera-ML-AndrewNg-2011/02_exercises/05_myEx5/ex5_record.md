@@ -59,7 +59,6 @@ Cost at theta = [1 ; 1]: 303.993192
 相应地，损失函数的偏导数为：
 
 $$
-
 \frac{\partial J(\theta)}{\partial \theta_{0}}=\frac{1}{m}
 \sum^{m}_{i=1}(h_{\theta}(x^{(i)})-y^{(i)})
 x^{(i)}_{j},for \ j=0;

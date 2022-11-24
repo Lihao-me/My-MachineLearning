@@ -59,6 +59,7 @@ Cost at theta = [1 ; 1]: 303.993192
 相应地，损失函数的偏导数为：
 
 $$
+
 \frac{\partial J(\theta)}{\partial \theta_{0}}=\frac{1}{m}
 \sum^{m}_{i=1}(h_{\theta}(x^{(i)})-y^{(i)})
 x^{(i)}_{j},for \ j=0;
@@ -256,7 +257,7 @@ grad = (sum((X*theta-y).*X))'/m+Theta*lambda/m;
 
 为了更好地理解非正则化的模型，我们可以观察它的学习曲线。
 
-![5Plearningcurve][My-MachineLearning/5Plearningcurve.png at main · Lihao-me/My-MachineLearning (github.com)](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/00_images/5Plearningcurve.png)
+![5Plearningcurve](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/00_images/5Plearningcurve.png)
 
 上图显示训练误差一直能保持很低，但是交叉验证误差很好，这是很明显的高方差问题。
 

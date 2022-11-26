@@ -11,3 +11,4 @@
 - 10 [应用神经网络的建议](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/10_Advice-for-Applying-Machine-Learning.pdf)
 - 11 [机器学习系统设计](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/11_Machine-Learning-System-Design.pdf)
 - 12 [支持向量机](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/12_Support-Vector-Machine.pdf)
+- 13 [聚类](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/13_Clustering.pdf)

@@ -14,4 +14,6 @@
 - 05 [myEx5 正则化的线性回归与偏差-方差权衡](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/05_myEx5)
   - [作业5题目要求](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/05_myEx5/ex5.pdf)
   - [作业5解决记录](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/05_myEx5/ex5_record.md)
-
+- 06 [myEx6 支持向量机](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/06_myEx6)
+  - [作业6题目要求](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/06_myEx6/ex6.pdf)
+  - [作业6解决记录](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/06_myEx6/ex6_record.md)

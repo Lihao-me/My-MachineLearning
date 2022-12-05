@@ -12,3 +12,4 @@
 - 11 [机器学习系统设计](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/11_Machine-Learning-System-Design.pdf)
 - 12 [支持向量机](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/12_Support-Vector-Machine.pdf)
 - 13 [聚类](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/13_Clustering.pdf)
+- 14 [降维](https://github.com/Lihao-me/My-MachineLearning/blob/main/01_Coursera-ML-AndrewNg-2011/01_notes/14_Dimensionality-Reduction.pdf)

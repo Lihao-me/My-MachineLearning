@@ -17,3 +17,6 @@
 - 06 [myEx6 支持向量机](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/06_myEx6)
   - [作业6题目要求](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/06_myEx6/ex6.pdf)
   - [作业6解决记录](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/06_myEx6/ex6_record.md)
+- 07 [myEx7 聚类与主成分分析](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/07_myEx7)
+  - [作业7题目要求](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/07_myEx7/ex7.pdf)
+  - [作业7解决记录](https://github.com/Lihao-me/My-MachineLearning/tree/main/01_Coursera-ML-AndrewNg-2011/02_exercises/07_myEx7/ex7_record.md)
